@@ -1,0 +1,4 @@
+# 休眠・凍結した repo の一覧（60_dormant_repo_write.sh が参照）。1行1絶対パス、# はコメント。
+# 追加時は休眠を決めた出所（判断記録のIDと日付）をコメントで併記する。
+# 例:
+# /home/user/projects/old-project
